@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "24CAEDF0-3571-4846-806D-876A1D95D5D8",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MixedUICharacterApp.xcodeproj",
+      "identifier" : "0447DF572CF5F052002FC550",
+      "name" : "MixedUICharacterApp"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MixedUICharacterApp.xcodeproj",
+        "identifier" : "041194DD2CF883E000668B28",
+        "name" : "MixedUICharacterAppUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:MixedUICharacterApp.xcodeproj",
+        "identifier" : "04DD0BAF2CF89F20001D6293",
+        "name" : "MixedUICharacterAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
