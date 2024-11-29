@@ -38,7 +38,7 @@ In this section, I will explain each app and its key features in depth.
 
 This app follows the submission guidelines and is primarily built with **SwiftUI**, while integrating **UICollectionView**.
 
-#### Common Features
+#### Features
 - Built using **🏗️ MVVM** Architecture
 - A base **🔲 View** and **📦 ViewModel** are implemented
 - Custom, reusable views like **🛠️ StatusView** and **🔲 RoundedStyle** are introduced
@@ -56,13 +56,21 @@ This app follows the submission guidelines and is primarily built with **SwiftUI
   <img src="https://github.com/user-attachments/assets/8a4b6899-a851-4299-bc23-b0c441d2a70d" width="200"/>
 </p>
 
+#### Unit Tests Results
+
+<p align="center">
+  <img width="250" alt="Screenshot 2024-11-30 at 1 00 26 AM" src="https://github.com/user-attachments/assets/e0975b9c-7d5e-4290-9f83-dd8295ae1c87" style="margin-right: 10px;"/>
+  <img width="250" alt="Screenshot 2024-11-30 at 12 59 46 AM" src="https://github.com/user-attachments/assets/bd2b0485-f202-4485-9f10-2e911a0ef3fe" style="margin-right: 10px;"/>
+  <img width="250" alt="Screenshot 2024-11-30 at 12 59 57 AM" src="https://github.com/user-attachments/assets/e147e16c-091f-4722-96e5-802a016e9b54"/>
+</p>
+
 ---
 
 ### 🖼 **UIKitCharacterApp**
 
 This app is developed entirely with **UIKit** to showcase proficiency in Swift and UIKit.
 
-#### Common Features
+#### Features
 - Developed using **🏗️ MVVM-C** Architecture
 - **🎬 View Controllers** and custom views were built programmatically
 - Navigation is handled using the **🧭 Coordinator** pattern
@@ -79,21 +87,13 @@ This app is developed entirely with **UIKit** to showcase proficiency in Swift a
   <img src="https://github.com/user-attachments/assets/25ac0852-2405-4632-9638-0dc77e457304" width="200"/>
 </p>
 
-#### Unit Tests Results
-
-<p align="center">
-  <img width="250" alt="Screenshot 2024-11-30 at 1 00 26 AM" src="https://github.com/user-attachments/assets/e0975b9c-7d5e-4290-9f83-dd8295ae1c87" style="margin-right: 10px;"/>
-  <img width="250" alt="Screenshot 2024-11-30 at 12 59 46 AM" src="https://github.com/user-attachments/assets/bd2b0485-f202-4485-9f10-2e911a0ef3fe" style="margin-right: 10px;"/>
-  <img width="250" alt="Screenshot 2024-11-30 at 12 59 57 AM" src="https://github.com/user-attachments/assets/e147e16c-091f-4722-96e5-802a016e9b54"/>
-</p>
-
 ---
 
 ### 📱 **SwiftUICharacterApp**
 
 This app is developed entirely with **SwiftUI** to demonstrate proficiency in Swift and SwiftUI.
 
-#### Common Features
+#### Features
 - Built using **🏗️ MVVM** Architecture
 - Implemented a new **🎨 design** for the interface
 - Introduced custom, reusable views like **📝 TinyInfoItemView**
