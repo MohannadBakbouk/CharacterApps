@@ -108,7 +108,23 @@ This app is developed entirely with **SwiftUI** to demonstrate proficiency in Sw
 
 ---
 
-## Prerequisites
+## 🧩 Challenges
+
+### 1. 📦 Adapt UICollectionView and integrate it through the `UIViewRepresentable` protocol
+Initially, I was able to integrate **UICollectionView** into SwiftUI using the `UIViewRepresentable` protocol, but the `init` method was a bit complex. I always try to keep my code clean and organized, so I decided to improve it by passing functions instead of using long closures. To make the implementation more efficient, I introduced an overloaded `init` that accepts functions, which made the code much cleaner and more manageable.
+
+### 2. 🔀 Navigate to Details Programmatically
+In the beginning, I used **NavigationView** with a hidden **NavigationLink** to navigate to a details screen. This worked fine at first. However, the `NavigationLink` initializer I was relying on was marked as **deprecated**. After researching alternatives, I had a few options:
+
+- **Option 1**: Create a parent view with a state variable to manage the active view and switch between the list and details view.  
+- **Option 2**: Use **UIKit** navigation, but this would have been time-consuming, especially if I needed to handle the entire navigation flow with **UINavigationController**.
+- **Option 3**: Search for an equivalent solution in SwiftUI. I decided to go with this option and replaced **NavigationView** with **NavigationStack**, using the `path` parameter for managing navigation, which simplified the process and avoided deprecated code.
+
+### 3. 🧪 Writing UI Unit Test Cases
+Writing unit tests for the UI components posed some challenges. Some of the test cases were tricky due to certain limitations in the testing framework. To handle these edge cases, I had to come up with multiple approaches. In some cases, adding a slight delay to the test cases allowed them to pass successfully, helping me ensure that the UI is robust and behaves as expected in all scenarios.
+
+---
+## Development Environment
 
 - **💻 Xcode 15.4** (15F31d)
 - **⚙️ Swift 5.9**
