@@ -43,6 +43,7 @@ extension CharacterListView{
             collectionView
             Spacer()
         }.padding()
+         .ignoresSafeArea(edges: .bottom)
             .navigationDestination(for: CharacterViewData.self) {value in
                 CharacterDetailsView(character: value)
             }
@@ -64,7 +65,6 @@ extension CharacterListView{
          CollectionView(rows: rows, sectionLayoutProvider: createCollectionSection, cell: makeItemView)
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .accessibilityIdentifier("CharacterCollection")
-        .ignoresSafeArea(.all)
     }
     
     func createCollectionSection(_ sectionIndex: Int,_  enviroment:  NSCollectionLayoutEnvironment) -> NSCollectionLayoutSection{

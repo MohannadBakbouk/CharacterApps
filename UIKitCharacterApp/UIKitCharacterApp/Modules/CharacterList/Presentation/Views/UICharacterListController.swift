@@ -96,7 +96,8 @@ final class UICharacterListController: UIBaseViewController<CharacterListViewMod
         collectionView.snp.makeConstraints {
             $0.top.equalTo(titleFiltersStack.snp.bottom).offset(20)
             $0.leading.equalTo(view.safeAreaLayoutGuide).offset(15)
-            $0.trailing.bottom.equalTo(view.safeAreaLayoutGuide).offset(-15)
+            $0.trailing.equalTo(view.safeAreaLayoutGuide).offset(-15)
+            $0.bottom.equalToSuperview()
         }
         
         filtersView.snp.makeConstraints {

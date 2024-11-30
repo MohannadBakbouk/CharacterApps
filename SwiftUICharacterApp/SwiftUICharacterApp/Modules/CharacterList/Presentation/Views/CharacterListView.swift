@@ -38,6 +38,7 @@ extension CharacterListView{
             Spacer()
         }.padding()
          .background(Color(.background))
+         .ignoresSafeArea(edges: .bottom)
          .navigationDestination(for: CharacterViewData.self) {value in
              CharacterDetailsView(character: value)
          }
