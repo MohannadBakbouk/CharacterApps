@@ -51,8 +51,8 @@ This app follows the submission guidelines and is primarily built with **SwiftUI
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6829e1e9-49f6-4f2d-b78a-67c561dba8f7" width="200" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/ac039478-c95c-4e3e-9b9f-2c1d09a0bd88" width="200" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/d6a83f22-050a-4dda-8cd3-824541ecc12b" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/7fcf4ced-ba3c-4046-ab95-87a338252cea" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/0bd743c5-8d4a-451e-8f8f-2efc91c0c4eb" width="200" style="margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/8a4b6899-a851-4299-bc23-b0c441d2a70d" width="200"/>
 </p>
 
@@ -82,8 +82,8 @@ This app is developed entirely with **UIKit** to showcase proficiency in Swift a
 #### Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/95f74569-26be-42b2-8077-d501ce3ffbec" width="200" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/5ba288b0-131e-4a85-9f86-7a1a00e66168" width="200" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/f8552c4f-ddbf-44dc-a2fe-4637abbb2279" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4db465ba-1dce-42c1-a349-0bbb3941edcd" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/7c4017fb-deb7-4b1c-96d3-074e5b72267b" width="200" style="margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/25ac0852-2405-4632-9638-0dc77e457304" width="200"/>
 </p>
 
@@ -101,8 +101,8 @@ This app is developed entirely with **SwiftUI** to demonstrate proficiency in Sw
 #### Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7bed0660-2bda-473c-b905-3370dee9c626" width="200" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/5a38d372-1ca7-4e94-80f2-8c07088a9a1e" width="200" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/4a5b78da-e7a0-4d50-8c6b-747bfbdf1a11" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/0f39b9d4-6877-4bde-b101-b320d938cad3" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/09e38bce-6178-4317-bd1c-c09480add807" width="200" style="margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/5dac99e0-0488-40ea-8ffa-8bf58a452829" width="200"/>
 </p>
 
