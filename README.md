@@ -128,3 +128,5 @@ Writing unit tests for the UI components posed some challenges. Some of the test
 
 - **💻 Xcode 15.4** (15F31d)
 - **⚙️ Swift 5.9**
+- **💻 Macbook Pro M1**
+
