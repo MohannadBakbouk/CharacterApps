@@ -130,3 +130,6 @@ Writing unit tests for the UI components posed some challenges. Some of the test
 - **⚙️ Swift 5.9**
 - **💻 Macbook Pro M1**
 
+---
+## Building Instructions
+You need to open the workspace file and install the packages 
