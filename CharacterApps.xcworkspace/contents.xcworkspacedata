@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MixedUICharacterApp/MixedUICharacterApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIKitCharacterApp/UIKitCharacterApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftUICharacterApp/SwiftUICharacterApp.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "SharedPackage">
+      <FileRef
+         location = "group:CommonShared">
+      </FileRef>
+   </Group>
+</Workspace>

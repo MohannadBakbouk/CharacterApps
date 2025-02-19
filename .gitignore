@@ -1,6 +1,5 @@
 # User-specific files
 *.xcuserstate
-*.xcworkspace
 */xcuserdata/*
 
 # Build generated files
